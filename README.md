@@ -9,8 +9,6 @@ Justine PHOL-ASA
 - [Project Description](#project-description)
 - [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
